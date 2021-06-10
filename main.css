@@ -94,7 +94,8 @@
 .aktualnosci a:hover {
 	font-size: 35px;
 	font-size-adjust: 20px;
-
+}
+	
 .logo {
 	position: relative;
     background-size: cover;
